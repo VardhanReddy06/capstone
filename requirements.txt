@@ -1,12 +1,6 @@
 streamlit
-base64
-pathlib
-os
-fitz
 PyMuPDF
 google-generativeai
 python-dotenv
 plotly
 numpy
-json
-re
