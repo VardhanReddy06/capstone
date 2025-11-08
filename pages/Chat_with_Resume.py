@@ -8,7 +8,7 @@ st.set_page_config(
 
 import os
 import base64
-import fitz  # PyMuPDF
+ # PyMuPDF
 import google.generativeai as genai
 from dotenv import load_dotenv
 
