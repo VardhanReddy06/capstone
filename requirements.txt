@@ -1,6 +1,9 @@
 streamlit
+base64
+pathlib
 PyMuPDF
 google-generativeai
 python-dotenv
 plotly
 numpy
+json
