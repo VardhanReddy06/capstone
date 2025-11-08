@@ -39,7 +39,7 @@ except FileNotFoundError:
 
 import re
 import os
-import fitz
+
 import numpy as np
 import google.generativeai as genai
 from dotenv import load_dotenv
@@ -78,7 +78,6 @@ if "page" not in st.session_state:
 import streamlit as st
 
 
-import streamlit as st
 
 # Inject CSS styling
 st.markdown("""
